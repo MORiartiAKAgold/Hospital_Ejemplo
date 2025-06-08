@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE1CECE6-AE7A-42AA-BD4E-FDF8F9FE680E}|Hospital_Ejemplo.csproj|c:\\users\\iansa\\documents\\hospital_ejemplo\\views\\empleado\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE1CECE6-AE7A-42AA-BD4E-FDF8F9FE680E}|Hospital_Ejemplo.csproj|solutionrelative:views\\empleado\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE1CECE6-AE7A-42AA-BD4E-FDF8F9FE680E}|Hospital_Ejemplo.csproj|C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE1CECE6-AE7A-42AA-BD4E-FDF8F9FE680E}|Hospital_Ejemplo.csproj|solutionrelative:views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE1CECE6-AE7A-42AA-BD4E-FDF8F9FE680E}|Hospital_Ejemplo.csproj|C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE1CECE6-AE7A-42AA-BD4E-FDF8F9FE680E}|Hospital_Ejemplo.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE1CECE6-AE7A-42AA-BD4E-FDF8F9FE680E}|Hospital_Ejemplo.csproj|C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\views\\empleado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE1CECE6-AE7A-42AA-BD4E-FDF8F9FE680E}|Hospital_Ejemplo.csproj|solutionrelative:views\\empleado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FE1CECE6-AE7A-42AA-BD4E-FDF8F9FE680E}|Hospital_Ejemplo.csproj|c:\\users\\iansa\\documents\\hospital_ejemplo\\views\\empleado\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE1CECE6-AE7A-42AA-BD4E-FDF8F9FE680E}|Hospital_Ejemplo.csproj|solutionrelative:views\\empleado\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE1CECE6-AE7A-42AA-BD4E-FDF8F9FE680E}|Hospital_Ejemplo.csproj|C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE1CECE6-AE7A-42AA-BD4E-FDF8F9FE680E}|Hospital_Ejemplo.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1CECE6-AE7A-42AA-BD4E-FDF8F9FE680E}|Hospital_Ejemplo.csproj|C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE1CECE6-AE7A-42AA-BD4E-FDF8F9FE680E}|Hospital_Ejemplo.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE1CECE6-AE7A-42AA-BD4E-FDF8F9FE680E}|Hospital_Ejemplo.csproj|C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,20 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\Views\\Empleado\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Empleado\\Create.cshtml",
               "ToolTip": "C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\Views\\Empleado\\Create.cshtml",
               "RelativeToolTip": "Views\\Empleado\\Create.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-07T00:36:10.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "BundleConfig.cs",
               "DocumentMoniker": "C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
@@ -84,39 +84,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\Views\\Empleado\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Empleado\\Index.cshtml",
-              "ToolTip": "C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\Views\\Empleado\\Index.cshtml",
-              "RelativeToolTip": "Views\\Empleado\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\Views\\Empleado\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Empleado\\Index.cshtml*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-31T00:36:16.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\Views\\Empleado\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Empleado\\Edit.cshtml",
               "ToolTip": "C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\Views\\Empleado\\Edit.cshtml",
               "RelativeToolTip": "Views\\Empleado\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-31T00:35:35.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-31T00:04:08.994Z",
               "EditorCaption": ""
@@ -129,9 +129,10 @@
               "RelativeDocumentMoniker": "Controllers\\EmpleadoController.cs",
               "ToolTip": "C:\\Users\\iansa\\Documents\\Hospital_Ejemplo\\Controllers\\EmpleadoController.cs",
               "RelativeToolTip": "Controllers\\EmpleadoController.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAowIIAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T23:26:16.146Z"
+              "WhenOpened": "2025-05-30T23:26:16.146Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
